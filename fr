@@ -1,0 +1,65 @@
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> add
+The card:
+> 1
+The definition of the card:
+> 1
+The pair ("1":"1") has been added.
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> ad
+Unknown command: ad
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> 
+Unknown command: 
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> add
+The card:
+> 2
+The definition of the card:
+> 2
+The pair ("2":"2") has been added.
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> add
+The card:
+> 2
+The card "2" already exists.
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> add
+The card:
+> 2
+The card "2" already exists.
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> add
+The card:
+> 3
+The definition of the card:
+> 2
+The definition "2" already exists.
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> add
+The card:
+> 3
+The definition of the card:
+> 3
+The pair ("3":"3") has been added.
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> add
+The card:
+> 5
+The definition of the card:
+> 5
+The pair ("5":"5") has been added.
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> ask
+How many times to ask?
+> 2
+Print the definition of "1":
+> 1
+Correct answer.
+Print the definition of "2":
+> 3
+Wrong. The right answer is "2", but your definition is correct for "3".
+Input the action (add, ask, log, hardest card, reset stats, exit):
+> log
+File name:
+> fr
